@@ -1,0 +1,36 @@
+dependencies: \
+  /Users/pat/Formations/LeReacteur/ReactNative/native/node_modules/react-native/Libraries/Text/TextInput/RCTBaseTextInputView.m \
+  /Users/pat/Formations/LeReacteur/ReactNative/native/node_modules/react-native/Libraries/Text/TextInput/RCTBaseTextInputView.h \
+  /Users/pat/Formations/LeReacteur/ReactNative/native/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTView.h \
+  /Users/pat/Formations/LeReacteur/ReactNative/native/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/pat/Formations/LeReacteur/ReactNative/native/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/pat/Formations/LeReacteur/ReactNative/native/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/pat/Formations/LeReacteur/ReactNative/native/node_modules/react-native/Libraries/Text/TextInput/RCTBackedTextInputDelegate.h \
+  /Users/pat/Formations/LeReacteur/ReactNative/native/node_modules/react-native/Libraries/Text/TextInput/RCTBackedTextInputViewProtocol.h \
+  /Users/pat/Formations/LeReacteur/ReactNative/native/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAccessibilityManager.h \
+  /Users/pat/Formations/LeReacteur/ReactNative/native/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/pat/Formations/LeReacteur/ReactNative/native/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/pat/Formations/LeReacteur/ReactNative/native/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/pat/Formations/LeReacteur/ReactNative/native/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/pat/Formations/LeReacteur/ReactNative/native/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/pat/Formations/LeReacteur/ReactNative/native/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/pat/Formations/LeReacteur/ReactNative/native/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/pat/Formations/LeReacteur/ReactNative/native/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/pat/Formations/LeReacteur/ReactNative/native/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/pat/Formations/LeReacteur/ReactNative/native/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/pat/Formations/LeReacteur/ReactNative/native/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/pat/Formations/LeReacteur/ReactNative/native/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/pat/Formations/LeReacteur/ReactNative/native/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/pat/Formations/LeReacteur/ReactNative/native/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/pat/Formations/LeReacteur/ReactNative/native/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/pat/Formations/LeReacteur/ReactNative/native/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/pat/Formations/LeReacteur/ReactNative/native/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventDispatcher.h \
+  /Users/pat/Formations/LeReacteur/ReactNative/native/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUIManager.h \
+  /Users/pat/Formations/LeReacteur/ReactNative/native/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Users/pat/Formations/LeReacteur/ReactNative/native/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTViewManager.h \
+  /Users/pat/Formations/LeReacteur/ReactNative/native/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
+  /Users/pat/Formations/LeReacteur/ReactNative/native/node_modules/react-native/Libraries/Text/TextInput/RCTInputAccessoryView.h \
+  /Users/pat/Formations/LeReacteur/ReactNative/native/node_modules/react-native/Libraries/Text/TextInput/RCTInputAccessoryViewContent.h \
+  /Users/pat/Formations/LeReacteur/ReactNative/native/node_modules/react-native/Libraries/Text/RCTTextAttributes.h \
+  /Users/pat/Formations/LeReacteur/ReactNative/native/node_modules/react-native/Libraries/Text/RCTTextTransform.h \
+  /Users/pat/Formations/LeReacteur/ReactNative/native/node_modules/react-native/Libraries/Text/TextInput/RCTTextSelection.h
