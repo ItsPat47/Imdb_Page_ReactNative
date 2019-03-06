@@ -138,10 +138,60 @@ export default class App extends Component<Props> {
                 </View>
               </View>
             </ScrollView>
-            <Text>Director</Text>
-            <Text>Anthony C. Ferrante</Text>
-            <Text>Writer</Text>
-            <Text>Thunder Levin</Text>
+            <Text style={styles.castes}>Director</Text>
+            <Text style={styles.castesName}>Anthony C. Ferrante</Text>
+            <Text style={styles.castes}>Writer</Text>
+            <Text style={styles.castesName}>Thunder Levin</Text>
+            <View style={styles.containersTwo}>
+              <Text style={styles.top}>More like this</Text>
+              <Text style={styles.seeAll}>SEE ALL</Text>
+            </View>
+            <ScrollView horizontal={true}>
+              <View style={styles.actorList}>
+                <View style={styles.actorInfo}>
+                  <Image
+                    style={styles.actorImage}
+                    source={require("./components/img/sharknado2.jpg")}
+                  />
+                  <View style={styles.actorName}>
+                    <Text style={styles.textWhite}>Sharknado 2</Text>
+                  </View>
+                </View>
+              </View>
+              <View style={styles.actorList}>
+                <View style={styles.actorInfo}>
+                  <Image
+                    style={styles.actorImage}
+                    source={require("./components/img/sharknado3.jpg")}
+                  />
+                  <View style={styles.actorName}>
+                    <Text style={styles.textWhite}>Sharknado 3</Text>
+                  </View>
+                </View>
+              </View>
+              <View style={styles.actorList}>
+                <View style={styles.actorInfo}>
+                  <Image
+                    style={styles.actorImage}
+                    source={require("./components/img/shrek.jpg")}
+                  />
+                  <View style={styles.actorName}>
+                    <Text style={styles.textWhite}>Shrek</Text>
+                  </View>
+                </View>
+              </View>
+              <View style={styles.actorList}>
+                <View style={styles.actorInfo}>
+                  <Image
+                    style={styles.actorImage}
+                    source={require("./components/img/shrek2.jpg")}
+                  />
+                  <View style={styles.actorName}>
+                    <Text style={styles.textWhite}>Shrek 2</Text>
+                  </View>
+                </View>
+              </View>
+            </ScrollView>
           </View>
         </View>
       </ScrollView>
@@ -163,7 +213,18 @@ const styles = StyleSheet.create({
     height: 27,
     width: 30
   },
-
+  castes: {
+    color: "#e6e6e6",
+    fontSize: 13,
+    marginBottom: 2,
+    marginLeft: 10
+  },
+  castesName: {
+    color: "#ffffff",
+    fontSize: 15,
+    marginBottom: 10,
+    marginLeft: 10
+  },
   textWhite: {
     color: "#ffffff",
     fontSize: 13,
@@ -183,7 +244,7 @@ const styles = StyleSheet.create({
   },
   all: {
     justifyContent: "flex-start",
-    backgroundColor: "#333333",
+    backgroundColor: "#4d4d4d",
     paddingTop: 35,
     width: "100%",
     height: "100%"
