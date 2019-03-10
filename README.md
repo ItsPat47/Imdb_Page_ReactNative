@@ -1,9 +1,9 @@
 # Imdb Page with React-Native
 
-run with the simulator :  
+### run with the simulator :  
 react-native run-ios
 
-Dependencies :  
+Dependencies :
   - React
   - React Native
 
